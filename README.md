@@ -1,6 +1,6 @@
 ### Olá Mundo! Eu sou Marcus Gomes!
-
-- 🌱Estudando HTML, CSS, JavaScript, Flutter, React!
+- Desenvolvedor Front End
+- 🌱 Estudando React
 <div align="center">
   <a href="https://github.com/marcusgsx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusgsx&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
